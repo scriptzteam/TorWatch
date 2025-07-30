@@ -1,0 +1,36 @@
+name: Update Tor IPs
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'  # Run every 4 hours
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: debian-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Download latest lists
+        run: python tor.py
+      
+      - name: Force add and commit
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -f tor_ips.txt
+          git status
+          if git status --porcelain | grep -q '^?? \|^A  \|^M  '; then
+            echo "Changes detected, committing..."
+            git commit -m "Update bogon lists [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi 
