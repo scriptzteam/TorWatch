@@ -7,7 +7,7 @@ on:
 
 jobs:
   update:
-    runs-on: debian-latest
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
