@@ -48,7 +48,12 @@ def download_file(url: str, filename: str) -> bool:
 def main() -> None:
     '''Main entry point for the script'''
     sources = {
-        'tor_ips.txt': 'https://tor-relays.0xc0d3.cc/relays.txt'
+        'exits.txt': 'https://tor-relays.0xc0d3.cc/exits.txt',
+        'exits-ipv4.txt': 'https://tor-relays.0xc0d3.cc/exits-ipv4.txt',
+        'exits-ipv6.txt': 'https://tor-relays.0xc0d3.cc/exits-ipv6.txt',
+        'relays.txt': 'https://tor-relays.0xc0d3.cc/relays.txt',
+        'relays-ipv4.txt': 'https://tor-relays.0xc0d3.cc/relays-ipv4.txt',
+        'relays-ipv6.txt': 'https://tor-relays.0xc0d3.cc/relays-ipv6.txt',
     }
 
     success = True
