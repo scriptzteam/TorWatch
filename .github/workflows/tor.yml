@@ -23,8 +23,8 @@ jobs:
       
       - name: Force add and commit
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "scriptzteam@gmail.com"
+          git config --local user.name "scriptzteam"
           git add -f exits.txt exits-ipv4.txt exits-ipv6.txt relays.txt relays-ipv4.txt relays-ipv6.txt
           git status
           if git status --porcelain | grep -q '^?? \|^A  \|^M  '; then
