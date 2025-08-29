@@ -925,6 +925,7 @@
 2a01:e0a:42d:bd00:33ea:be75:26ba:75fe
 2a01:e0a:242:f915:f5b8:aa2e:91e7:b8a1
 2a01:e0a:281:be00:b6c4:b1e4:1c19:abfd
+2a01:e0a:a02:3470:6faa:d9c:a7fb:93e2
 2a01:e0a:b5:7f50::ebbe:82eb
 2a01:e0a:d83:fcc0:be24:11ff:fe6d:7115
 2a01:e5c0:7d13::2
@@ -2213,7 +2214,6 @@
 2003:d9:5706:f00:921b:eff:fec6:35fe
 2003:e7:2f2f:6c01:8261:5fff:fe0e:bf34
 2003:e7:9f03:f300:42:acff:fe10:6404
-2003:ed:6740:a00:7cd5:1bb1:ea23:2d16
 2003:f1:cf01:1f00:95d2:c4a0:921d:365d
 2003:f5:cf02:4e00:58a8:2bff:fe5c:d35d
 2003:fd:5711:dc00:e65f:1ff:fe00:96c5
