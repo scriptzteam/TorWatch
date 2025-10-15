@@ -968,7 +968,6 @@
 2a01:e0a:5e4:1d0::acab
 2a01:e0a:5eb:2a40:9a45:bd02:fee:d6e5
 2a01:e0a:9fa:5fb0:a862:73ff:fea2:742c
-2a01:e0a:16:b821:c0ff:ee:717:717
 2a01:e0a:19b:4ad0::a810:b196
 2a01:e0a:42d:bd00:365a:60ff:fe4d:430f
 2a01:e0a:242:f915:f5b8:aa2e:91e7:b8a1
