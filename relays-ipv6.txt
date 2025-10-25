@@ -954,6 +954,7 @@
 2a01:e0a:242:f915:f5b8:aa2e:91e7:b8a1
 2a01:e0a:281:be00:b6c4:b1e4:1c19:abfd
 2a01:e0a:b5:7f50::ebbe:82eb
+2a01:e0a:c20:25a0::b2ba:2e77
 2a01:e0a:d83:fcc0:be24:11ff:fe6d:7115
 2a01:e5c0:74b2::2
 2a01:e11:801b:f0:6a1d:efff:fe40:913b
