@@ -435,10 +435,8 @@
 2a00:1dc0:caff:12c::4d3a
 2a00:1dc0:caff:15::45dc
 2a00:1dc0:caff:20::eda9
-2a00:1dc0:caff:22::cea7
 2a00:1dc0:caff:44::326d
 2a00:1dc0:caff:73::a568
-2a00:1dc0:caff:82::c9ed
 2a00:1dc0:caff:118::a2d7
 2a00:1dc0:caff:138::94d2
 2a00:1dc0:caff:172::635a
