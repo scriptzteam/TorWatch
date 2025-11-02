@@ -384,7 +384,6 @@
 2a0e:bfc0:0:12::9a57
 2a0e:bfc0:0:14::24a8
 2a0e:bfc0:0:ee:b00b:babe:cafe:bad
-2a0e:bfc2:0:222:b00b:babe:cafe:bad
 2a0e:bfc7:0:3::2d83
 2a0e:bfc7:0:222:b00b:babe:cafe:bad
 2a0e:bfc7::216:3cff:fe1b:e69b
