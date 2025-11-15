@@ -447,6 +447,7 @@
 2a00:1dc0:caff:20::eda9
 2a00:1dc0:caff:44::326d
 2a00:1dc0:caff:73::a568
+2a00:1dc0:caff:90::b3de
 2a00:1dc0:caff:118::a2d7
 2a00:1dc0:caff:138::94d2
 2a00:1dc0:caff:172::635a
@@ -1732,6 +1733,7 @@
 2a12:bec4:1822:ad:0:dead:beef:ca1f
 2a12:c740:1::cdc5:c6e6
 2a12:de40:21:35fa::
+2a12:de40:21:c89f::
 2a13:7c00:3:23:f816:3eff:fe15:dca5
 2a13:7c81:122::2
 2a13:29c0:76b9:29e5:95d5:fa34:f713:1
