@@ -52,6 +52,7 @@
 2a0a:a547:4beb:0:ba27:ebff:fef2:f7d6
 2a0a:c801:1:5::192
 2a0a:ef40:1b20:2401:dea6:32ff:fe67:5bee
+2a0a:ef40:1f7:d800:6e4b:90ff:fe4d:675
 2a0a:ef40:572:af01:3b99:5607:9fc3:e962
 2a0b:8bc0:2:232a::1
 2a0b:8bc0:2:b57e::1
@@ -402,7 +403,6 @@
 2a0f:5707:aaf1:408::1
 2a0f:5707:aaf1:ae3::a010
 2a0f:5707:aaf1:b8cf::1
-2a0f:9400:7e11:25eb::1
 2a0f:9400:7e11:cb92:b00b:babe:cafe:bad
 2a0f:ca80:0:5c43::1
 2a0f:ca80:0:e57f::785:2099
@@ -810,6 +810,7 @@
 2a01:7e01::f03c:91ff:fed3:21d
 2a01:7e01::f03c:92ff:fec2:273e
 2a01:7e01::f03c:95ff:fe05:317a
+2a01:7e01::f03c:95ff:fec4:501a
 2a01:7e02::f03c:94ff:fe7d:fae5
 2a01:7e02::f03c:94ff:fef3:ec96
 2a01:7e03::2000:44ff:fe03:d10b
